@@ -41,7 +41,7 @@
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="C:\Users\SashoK\IdeaProjects\JenkinsTest\AnreevWebProject\target/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/target/anreev_webApp/META-INF/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="PersonalCabinet/web/Web" />
     </root>
